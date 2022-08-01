@@ -1,0 +1,8 @@
+#container {
+    height: 1.3rem;
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: center;color: aliceblue;
+    font-weight: 300;
+}
