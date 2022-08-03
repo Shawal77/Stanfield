@@ -1,5 +1,6 @@
-div {
-    height: 60px;
+#navbar {
+    height: max-content;
+
 }
 
 .wrapper {
@@ -27,12 +28,14 @@ div {
 }
 #search {
     border: 0.5px solid lightgray;
+    border-radius: 10px 10px 0 0;
     display: flex;
     margin-left: 25px;
     padding: 5px;
     height: 1rem;
     color: gray;
     font-size: 16px;
+    opacity: 0.5;
 }
 
 #input {

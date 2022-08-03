@@ -6,7 +6,7 @@ import { BiMessageSquareDetail } from 'react-icons/bi'
 
 function Navbar() {
   return (
-    <div>
+    <div id='navbar'>
         <div className='wrapper'>
 
 

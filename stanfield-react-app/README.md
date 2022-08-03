@@ -3,7 +3,7 @@
 As discussed, I want us to form our own team consisting of me and you and develop an app that enables people to invest or sponsor farmland.
 The specifications of the app should include but not limited to the following features:
 
-1. Signup or register feature
+1. Signin or register feature
 1. Should create profile of  farm sponsor and farmers
 1. The app should enable people to make payment for Return on Investment(ROI)
 1. Should have USSD feature
