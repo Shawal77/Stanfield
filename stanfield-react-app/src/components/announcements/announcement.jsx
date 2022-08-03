@@ -3,7 +3,7 @@ import './announcements.css'
 
 function Announcement() {
   return (
-    <div id='container'>
+    <div id='announceContainer'>
         Super deal 60% profit in 3 months
     </div>
   )
